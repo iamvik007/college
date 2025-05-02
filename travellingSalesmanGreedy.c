@@ -2,7 +2,7 @@
 #define INF 9999
 
 int main(){
-    int n,min,a=0,b=0,c=1,total;
+    int n,min,a=0,b=0,c=1,total=0;
     printf("Enter no of vertices: ");
     scanf("%d",&n);
     int G[n][n];
