@@ -50,6 +50,14 @@ int main(){
     
     
 }
+// adj_matrix = [
+//   [0, 2, 0, 3, 6],  # connections from node 0
+//   [2, 0, 1, 0, 0],  # connections from node 1
+//   [0, 1, 0, 4, 0],  # connections from node 2
+//   [3, 0, 4, 0, 5],  # connections from node 3
+//   [6, 0, 0, 5, 0]   # connections from node 4
+// ]
+
 
 
 
